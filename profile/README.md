@@ -92,15 +92,4 @@ Dev with a security first mindset
 #### Robero Huie ####
 Fashionably late to the party, always. 
 
-# now i see that we  were supposed to add changes to the readme file
-
-**BE BOLD**
-
-<ins>Underline</ins>
-
-*Italicize*
-
-~~Strikethrough~~
-
-
 

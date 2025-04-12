@@ -92,4 +92,7 @@ Dev with a security first mindset
 #### Robero Huie ####
 Fashionably late to the party, always. 
 
+#### Jay #####
+A detail-oriented developer with a knack for spotting bugs and smoothing out rough edges in code. Currently sharpening his skills in C# and .NET, and enjoys turning clean logic into clean results.
+
 
